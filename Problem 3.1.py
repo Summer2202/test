@@ -1,0 +1,5 @@
+a=int(input("Enter your age here:"))
+print("This is how many days old you are:")
+print(a*365)
+print("You have this many days till 100 years old:") 
+print(36500-a*365)
